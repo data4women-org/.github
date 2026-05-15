@@ -38,6 +38,4 @@ Through data literacy, data analysis, and advocacy, we create tools, indicators,
 
 ---
 
-🌐 Website: https://www.data4women.org  
-💼 LinkedIn: https://www.linkedin.com/company/data4women/# .github
-Public organization profile for Data4Women.
+💼 LinkedIn: https://www.linkedin.com/company/data4women/# 
